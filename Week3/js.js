@@ -5,10 +5,10 @@ function EmployeeInfo(name,Salary)
     }
     console.log("This is my first program")
 
-var EmpName="Sujit"
+var EmpName="udip"
 var EmpSalary= 1200
 // calling the function 
-EmployeeInfo("Sujit",1200)
+EmployeeInfo("udip",1200)
 
 //Second Exercise
 
