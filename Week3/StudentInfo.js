@@ -2,7 +2,7 @@ const DOB="29/10/2000"
 
 const getStudentName = () =>
 {
-    return "Sujit Suwal"
+    return "udip"
 }
 const getCampusName = () =>
 { 
